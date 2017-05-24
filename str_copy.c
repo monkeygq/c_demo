@@ -1,5 +1,5 @@
-#include<stdio.h>
-#include<assert.h>
+#include <stdio.h>
+#include <assert.h>
 char* str_copy(char *to, const char *from) {
   assert(to != NULL && from != NULL);
   char *p = to;
