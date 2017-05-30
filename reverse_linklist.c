@@ -37,18 +37,20 @@ Linklist *change(Linklist *head, int m, int n) {
     realhead->next = q;
     q = p->next;
   }
-  return vhead->next;
+  return vhead;
 }
 
 int main(void) {
-  Linklist *head;
+  Linklist *head, *p;
   head = create(1, 6);
-  head = change(head, 2, 5);
-  while(head != NULL) {
+  head = change(head, 2, 3);
+  p = head->next;
+  free(head);
+  while(p != NULL) {
     Linklist *delete;
-    printf("%d", head->num);
-    delete = head;
-    head = head->next;
+    printf("%d", p->num);
+    delete = p;
+    p = p->next;
     free(delete);
   }
   printf("\n");
