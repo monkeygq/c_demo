@@ -4,8 +4,8 @@ int binary_search(int *arr, int x, int length);
 
 int main() {
   int arr[] = {1,2,3,4,5};
-  printf("index = %d\n", binary_search(arr, 5, sizeof(arr)/ sizeof(arr[0])));
-  printf("index = %d\n", binary_search(arr, 6, sizeof(arr)/ sizeof(arr[0])));
+  printf("index = %d\n", binary_search(arr, 5, sizeof(arr) / sizeof(arr[0])));
+  printf("index = %d\n", binary_search(arr, 6, sizeof(arr) / sizeof(arr[0])));
   return 0;
 }
 
