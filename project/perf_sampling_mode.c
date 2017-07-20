@@ -51,18 +51,18 @@ int main(int argc, char* argv[]) {
 
   //ioctl(fd1, PERF_EVENT_IOC_RESET, 0);
   ioctl(fd1, PERF_EVENT_IOC_ENABLE, 0);
-  //printf("sleep start\n");
-  //sleep(1);
-  //printf("sleep over\n");
 
   struct pollfd pollfd[] = {{fd1, POLLIN | POLLHUP,0}};
   int ret;
+  void *read_tail;
   struct perf_record_sample *sample;
-  ret = poll(pollfd, 1, -1);
-  printf("ret = %d\n", ret);
-  printf("pollfd[0]->revents = %d\n", pollfd[0].revents);
-  printf("base = %p\n", base);
-
+  //ret = poll(pollfd, 1, -1);
+  //printf("ret = %d\n", ret);
+  //printf("pollfd[0]->revents = %d\n", pollfd[0].revents);
+  //printf("base = %p\n", base);
+  
+  sleep(1);
+  read_tail = base;
   mp = (struct perf_event_mmap_page *)base;
   printf("mp: %p\n", mp);
   __u64 head = ACCESS_ONCE(mp->data_head);
@@ -73,33 +73,37 @@ int main(int argc, char* argv[]) {
   printf("mp->data_size = %llu\n", mp->data_size);
   printf("mp->data_offset = %llu\n", mp->data_offset);
   printf("mp->time_enabled = %llu\n", mp->time_enabled);
-  printf("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n");
   base += mp->data_offset;//sizeof(*mp);
-  printf("base: %p\n", base);
-  peh = (struct perf_event_header *)base;
-  printf("peh: %p\n", peh);
-  printf("peh->type = %d\n", peh->type);
-  printf("peh->misc = %d\n", peh->misc);
-  printf("peh->size = %d\n", peh->size);
-  base += sizeof(peh);
-  sample = (struct perf_record_sample *)base;
-  printf("sample->sample_id = %llu\n", sample->sample_id);
-  printf("sample->id = %llu\n", sample->id);
-  base += sizeof(struct perf_record_sample);
+  printf("%p\n", mp);
+  printf("%p\n", base);
+  printf("%p\n", read_tail + mp->data_offset + mp->data_size);
+  read_tail += (mp->data_offset + mp->data_size);
   printf("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n");
-  printf("base: %p\n", base);
 
-  peh = (struct perf_event_header *)base;
-  printf("peh: %p\n", peh);
-  printf("peh->type = %d\n", peh->type);
-  printf("peh->misc = %d\n", peh->misc);
-  printf("peh->size = %d\n", peh->size);
-  base += sizeof(peh);
-  sample = (struct perf_record_sample *)base;
-  printf("sample->sample_id = %llu\n", sample->sample_id);
-  printf("sample->id = %llu\n", sample->id);
-  printf("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n");
+  while(base <= read_tail) {
+    printf("base: %p\n", base);
+    peh = (struct perf_event_header *)base;
+    printf("peh: %p\n", peh);
+    printf("peh->type = %d\n", peh->type);
+    printf("peh->misc = %d\n", peh->misc);
+    printf("peh->size = %d\n", peh->size);
+    base += sizeof(peh);
+    sample = (struct perf_record_sample *)base;
+    printf("sample->sample_id = %llu\n", sample->sample_id);
+    printf("sample->id = %llu\n", sample->id);
+    base += sizeof(struct perf_record_sample);
+  }
   munmap(base, page_size * 3);
   close(fd1);
   return 0;
 }
+
+
+
+
+
+
+
+
+
+
