@@ -97,11 +97,12 @@ int main(int argc, char* argv[]) {
       printf("peh->size = %d\n", peh->size);
       if(peh->type != PERF_RECORD_SAMPLE)
         break;
-      base += sizeof(peh);
-      sample = (struct perf_record_sample *)base;
+      //base += sizeof(peh);
+      sample = (struct perf_record_sample *)(base + sizeof(peh));
       printf("sample->sample_id = %llu\n", sample->sample_id);
       printf("sample->id = %llu\n", sample->id);
-      base += sizeof(struct perf_record_sample);
+      //base += sizeof(struct perf_record_sample);
+      base += peh->size;
     }
   }
   munmap(base, page_size * 3);
