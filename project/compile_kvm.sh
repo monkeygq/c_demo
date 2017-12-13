@@ -1,15 +1,15 @@
 #!/bin/bash
-path="/usr/src/linux-4.4.60"
+path="/home/hougq/Downloads/linux-3.19"
 echo "==========================================>"
 echo "[1] rmmod kvm_intel kvm start"
 rmmod kvm-intel
-if (($?));then
+if [ $? != 0 ];then
   echo "[INFO] rmmod kvm-intel failed"
 else
   echo "[INFO] rmmod kvm-intel success"
 fi
 rmmod kvm 
-if (($?));then
+if [ $? != 0 ];then
   echo "[INFO] rmmod kvm failed"
 else
   echo "[INFO] rmmod kvm success"
@@ -18,13 +18,13 @@ echo "[1] success!"
 echo "==========================================>"
 echo "[2] rm kvm-intel.ko kvm.ko"
 rm /lib/modules/$(uname -r)/kernel/arch/x86/kvm/kvm.ko
-if (($?));then
+if [ $? != 0 ];then
   echo "[INFO] rm kvm.ko failed"
 else
   echo "[INFO] rm kvm.ko success"
 fi
 rm /lib/modules/$(uname -r)/kernel/arch/x86/kvm/kvm-intel.ko
-if (($?));then
+if [ $? != 0 ];then
   echo "[INFO] rm kvm-intel.ko failed"
 else
   echo "[INFO] rm kvm-intel.ko success"
@@ -33,7 +33,7 @@ echo "[2] success!"
 echo "==========================================>"
 echo "[3] make clean kvm module"
 make clean CONFIG_KVM=m CONFIG_INTEL_KVM=m -C ${path} M=${path}/arch/x86/kvm
-if (($?));then
+if [ $? != 0 ];then
   echo "[ERROR] make clean kvm module failed"
   exit 1
 else
@@ -42,7 +42,7 @@ else
 fi
 echo "[4] make kvm module"
 make CONFIG_KVM=m CONFIG_INTEL_KVM=m -C ${path} M=${path}/arch/x86/kvm
-if (($?));then
+if [ $? != 0 ];then
   echo "[ERROR] make kvm module failed"
   exit 1
 else
