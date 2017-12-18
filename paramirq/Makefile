@@ -1,7 +1,7 @@
-obj-m:=wqtest.o
+obj-m:=paramirq.o
 PWD:=$(shell pwd)
 CUR_PATH:=$(shell uname -r)
-KERNELPATH:=/usr/src/linux-headers-$(CUR_PATH)
+KERNELPATH:=/home/hougq/Downloads/linux-4.14.5
 
 all:
 	make -C $(KERNELPATH) M=$(PWD) modules
