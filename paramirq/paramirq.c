@@ -1,11 +1,9 @@
 /*
-usage: Compiling this file by make 
-and using the following command to insert the mode which the make generated just now
-
-command: sudo insmod filename.ko irq=1 devname=myirq
-
-This interrupt shared the one irq with keyboard
-*/
+ * cmd:
+ * 	make
+ *	insmod paramirq.ko irq=1 devname=myirq
+ *	rmmod paramirq.ko
+ */
 
 #include <linux/kernel.h>
 #include <linux/module.h>
