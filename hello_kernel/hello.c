@@ -9,7 +9,7 @@ void read_msr(unsigned int idx) {
 	__asm__(
 				"rdmsr\n\t"
 				:"=d"(edx), "=a"(eax)
-				:"a"(idx)
+				:"c"(idx)
 			);
 	printk(KERN_NOTICE "I am in hello.c, idx = %x, edx:eax = %x%x\n", idx, edx, eax);
 	printk(KERN_NOTICE "I am in hello.c, edx = %x\n", edx);
