@@ -11,21 +11,17 @@ void read_msr(unsigned int idx) {
 				:"=d"(edx), "=a"(eax)
 				:"c"(idx)
 			);
-	printk(KERN_NOTICE "I am in hello.c, idx = %x, edx:eax = %x%x\n", idx, edx, eax);
-	printk(KERN_NOTICE "I am in hello.c, edx = %x\n", edx);
-	printk(KERN_NOTICE "I am in hello.c, eax = %x\n", eax);
+	printk(KERN_NOTICE "I am in hello.c, idx = %x, edx:eax = %04x%04x\n", idx, edx, eax);
+	printk(KERN_NOTICE "I am in hello.c, edx = %04x\n", edx);
+	printk(KERN_NOTICE "I am in hello.c, eax = %04x\n", eax);
 }
 
 static int hello_init(void)
 {
 	printk(KERN_NOTICE "I am in hello.c, hello_init\n");
-	read_msr(0x186);
-	read_msr(0x187);
-	read_msr(0x188);
-	read_msr(0x189);
-	read_msr(0x309);
-	read_msr(0x30a);
-	read_msr(0x30b);
+	read_msr(0x38e);
+	read_msr(0x38f);
+	read_msr(0x390);
 	return 0;
 }
 
