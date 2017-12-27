@@ -11,9 +11,19 @@ void read_msr(unsigned int idx) {
 				:"=d"(edx), "=a"(eax)
 				:"c"(idx)
 			);
-	printk(KERN_NOTICE "I am in hello.c, idx = %x, edx:eax = %04x%04x\n", idx, edx, eax);
-	printk(KERN_NOTICE "I am in hello.c, edx = %04x\n", edx);
-	printk(KERN_NOTICE "I am in hello.c, eax = %04x\n", eax);
+	printk(KERN_NOTICE "I am in hello.c read_msr, idx = %x, edx:eax = %04x%04x\n", idx, edx, eax);
+	printk(KERN_NOTICE "I am in hello.c read_msr, edx = %04x\n", edx);
+	printk(KERN_NOTICE "I am in hello.c read_msr, eax = %04x\n", eax);
+}
+
+void write_msr(unsigned int idx, unsigned int low, unsigned int high) {
+	__asm__(
+				"wrmsr\n\t"
+				::"c"(idx), "d"(high), "a"(low)
+			);
+	printk(KERN_NOTICE "I am in hello.c write_msr, idx = %x, edx:eax = %04x%04x\n", idx, high, low);
+	printk(KERN_NOTICE "I am in hello.c write_msr, edx = %04x\n", high);
+	printk(KERN_NOTICE "I am in hello.c write_msr, eax = %04x\n", low);
 }
 
 static int hello_init(void)
@@ -22,6 +32,8 @@ static int hello_init(void)
 	read_msr(0x38e);
 	read_msr(0x38f);
 	read_msr(0x390);
+	write_msr(0x30a, 0xff, 0);
+	read_msr(0x30a);
 	return 0;
 }
 
