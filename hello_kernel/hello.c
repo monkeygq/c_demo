@@ -32,8 +32,8 @@ static int hello_init(void)
 	read_msr(0x38e);
 	read_msr(0x38f);
 	read_msr(0x390);
-	write_msr(0x30a, 0xff, 0);
-	read_msr(0x30a);
+	write_msr(0x1d9, 1u << 11 | 1u << 12, 0);
+	read_msr(0x1d9);
 	return 0;
 }
 
