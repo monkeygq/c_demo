@@ -21,8 +21,11 @@ void compute_b()
 	}   
 }
 
-int main() 
+int main(void) 
 { 
-	compute_a(); 
-	compute_b(); 
+	while(1) {
+		compute_a(); 
+		compute_b();
+	} 
+	return 0;
 }
