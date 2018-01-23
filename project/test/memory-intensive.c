@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define MAX (1024 * 1024)
+#define MAX (1024 * 1024 * 2)
+int arr[MAX];
 
 struct item {
 	struct item *next;
@@ -36,7 +37,6 @@ int run1() {
 }
 
 int run2() {
-	int arr[MAX];
 	int i, j;
 	for(i = 0; i < MAX; i++)
 		arr[i] = 0;
@@ -47,7 +47,5 @@ int run2() {
 	return 0;
 }
 int main() {
-	while(1) {
-		run2();
-	}
+	run2();
 }
