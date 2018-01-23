@@ -23,7 +23,7 @@ struct read_format {
 	} values[];
 };
 
-#define MAX (1024 * 8)
+#define MAX (1024 * 64)
 
 int global[MAX];
 
@@ -35,20 +35,13 @@ struct item {
 int run1() {
 	struct item *p = (struct item *)malloc(sizeof(struct item) * MAX);
 	struct item *head = p;
-	int ran[MAX];
 	int i, j, k;
-	for(i = 0; i < MAX; i++) {
-		ran[i] = i;
-	}   
 	for(i = MAX - 1; i >= 0; i--) {
-		j = rand() % (i + 1); 
-		p->next = head + ran[j];
+		p->next = head + global[i];
 		if(p == p->next)
 			p->next == NULL;
 		else
 			p = p->next;
-		for(k = j; k < i; k++)
-			ran[k] = ran[k + 1]; 
 	}   
 	p = head;
 	while(p != NULL)
