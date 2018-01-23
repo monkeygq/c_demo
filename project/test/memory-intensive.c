@@ -23,7 +23,8 @@ struct read_format {
 	} values[];
 };
 
-#define MAX (1024 * 64)
+#define MAX_MAX (1024 * 64)
+#define MAX (1024 * 8)
 
 int global[MAX];
 
@@ -32,7 +33,7 @@ struct item {
 	unsigned long long arr[63];
 };
 
-int run1() {
+int run1(int loop) {
 	struct item *p = (struct item *)malloc(sizeof(struct item) * MAX);
 	struct item *head = p;
 	int i, j, k;
@@ -42,10 +43,12 @@ int run1() {
 			p->next == NULL;
 		else
 			p = p->next;
-	}   
-	p = head;
-	while(p != NULL)
-		p = p->next;
+	}
+	while(loop--) {
+		p = head;
+		while(p != NULL)
+			p = p->next;
+	}
 	free(head);
 	return 0;
 }
@@ -101,7 +104,7 @@ int main(int argc, char* argv[]) {
 	init();
 	ioctl(fd1, PERF_EVENT_IOC_RESET, PERF_IOC_FLAG_GROUP);
 	ioctl(fd1, PERF_EVENT_IOC_ENABLE, PERF_IOC_FLAG_GROUP);
-	run1();
+	run1(MAX_MAX / MAX);
 	ioctl(fd1, PERF_EVENT_IOC_DISABLE, PERF_IOC_FLAG_GROUP);
 
 
