@@ -9,7 +9,7 @@ struct item {
 	unsigned long long arr[63];
 };
 
-int run() {
+int run1() {
 	struct item *p = (struct item *)malloc(sizeof(struct item) * MAX);
 	struct item *head = p;
 	int ran[MAX];
@@ -35,8 +35,19 @@ int run() {
 	return 0;
 }
 
+int run2() {
+	int arr[MAX];
+	int i, j;
+	for(i = 0; i < MAX; i++)
+		arr[i] = 0;
+	for(j = 2; j < MAX; j++) {
+		for(i = 2; i < MAX; i += j)
+			arr[i] = 1;
+	}
+	return 0;
+}
 int main() {
 	while(1) {
-		run();
+		run2();
 	}
 }
