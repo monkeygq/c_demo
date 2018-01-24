@@ -23,7 +23,8 @@ void compute_b()
 
 int main(void) 
 { 
-	while(1) {
+	int i = 50;
+	while(i--) {
 		compute_a(); 
 		compute_b();
 	} 
