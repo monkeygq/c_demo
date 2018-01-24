@@ -1,0 +1,2235 @@
+sample_period=200000
+[ perf record: Woken up 12 times to write data ]
+[ perf record: Captured and wrote 2.771 MB perf.data (90572 samples) ]
+[ perf record: Woken up 11 times to write data ]
+[ perf record: Captured and wrote 2.737 MB perf.data (89455 samples) ]
+[ perf record: Woken up 12 times to write data ]
+[ perf record: Captured and wrote 2.910 MB perf.data (95127 samples) ]
+[ perf record: Woken up 7 times to write data ]
+[ perf record: Captured and wrote 1.669 MB perf.data (52830 samples) ]
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.276 MB perf.data (5040 samples) ]
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.274 MB perf.data (5014 samples) ]
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.274 MB perf.data (5000 samples) ]
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.278 MB perf.data (5088 samples) ]
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.278 MB perf.data (5076 samples) ]
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.276 MB perf.data (5052 samples) ]
+sample_period=250000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.278 MB perf.data (5088 samples) ]
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.275 MB perf.data (5032 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.115 MB perf.data (2032 samples) ]
+sample_period=200000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.275 MB perf.data (5023 samples) ]
+sample_period=250000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.274 MB perf.data (5010 samples) ]
+sample_period=300000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.277 MB perf.data (5058 samples) ]
+sample_period=350000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.276 MB perf.data (5040 samples) ]
+sample_period=400000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.272 MB perf.data (4968 samples) ]
+sample_period=450000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.280 MB perf.data (5116 samples) ]
+sample_period=500000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.280 MB perf.data (5126 samples) ]
+sample_period=550000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.281 MB perf.data (5136 samples) ]
+sample_period=600000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.280 MB perf.data (5130 samples) ]
+sample_period=650000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.278 MB perf.data (5086 samples) ]
+sample_period=700000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.277 MB perf.data (5064 samples) ]
+sample_period=750000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.272 MB perf.data (4974 samples) ]
+sample_period=800000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.275 MB perf.data (5022 samples) ]
+sample_period=850000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.279 MB perf.data (5094 samples) ]
+sample_period=900000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.279 MB perf.data (5099 samples) ]
+sample_period=950000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.283 MB perf.data (5173 samples) ]
+sample_period=1000000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.273 MB perf.data (4985 samples) ]
+sample_period=1050000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.277 MB perf.data (5077 samples) ]
+sample_period=1100000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.279 MB perf.data (5102 samples) ]
+sample_period=1150000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.278 MB perf.data (5081 samples) ]
+sample_period=1200000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.281 MB perf.data (5143 samples) ]
+sample_period=1250000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.274 MB perf.data (5001 samples) ]
+sample_period=1300000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.276 MB perf.data (5048 samples) ]
+sample_period=1350000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.278 MB perf.data (5091 samples) ]
+sample_period=1400000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.280 MB perf.data (5134 samples) ]
+sample_period=1450000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.280 MB perf.data (5116 samples) ]
+sample_period=1500000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.282 MB perf.data (5151 samples) ]
+sample_period=1550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.233 MB perf.data (4241 samples) ]
+sample_period=200000
+[ perf record: Woken up 12 times to write data ]
+[ perf record: Captured and wrote 2.903 MB perf.data (94917 samples) ]
+sample_period=250000
+[ perf record: Woken up 4 times to write data ]
+[ perf record: Captured and wrote 0.904 MB perf.data (26830 samples) ]
+sample_period=300000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.271 MB perf.data (4948 samples) ]
+sample_period=350000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.274 MB perf.data (5012 samples) ]
+sample_period=400000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.275 MB perf.data (5034 samples) ]
+sample_period=450000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.275 MB perf.data (5028 samples) ]
+sample_period=500000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.281 MB perf.data (5133 samples) ]
+sample_period=550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.168 MB perf.data (3030 samples) ]
+sample_period=200000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.297 MB perf.data (9532 samples) ]
+sample_period=250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.239 MB perf.data (7612 samples) ]
+sample_period=300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.199 MB perf.data (6301 samples) ]
+sample_period=350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.169 MB perf.data (5336 samples) ]
+sample_period=400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.150 MB perf.data (4713 samples) ]
+sample_period=450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.134 MB perf.data (4191 samples) ]
+sample_period=500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.122 MB perf.data (3792 samples) ]
+sample_period=550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.109 MB perf.data (3341 samples) ]
+sample_period=600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.102 MB perf.data (3135 samples) ]
+sample_period=650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.095 MB perf.data (2888 samples) ]
+sample_period=700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.088 MB perf.data (2680 samples) ]
+sample_period=750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.082 MB perf.data (2467 samples) ]
+sample_period=800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.077 MB perf.data (2314 samples) ]
+sample_period=850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.072 MB perf.data (2136 samples) ]
+sample_period=900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.066 MB perf.data (1963 samples) ]
+sample_period=950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.066 MB perf.data (1963 samples) ]
+sample_period=1000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.061 MB perf.data (1799 samples) ]
+sample_period=1050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.060 MB perf.data (1740 samples) ]
+sample_period=1100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.058 MB perf.data (1692 samples) ]
+sample_period=1150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.056 MB perf.data (1625 samples) ]
+sample_period=1200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.052 MB perf.data (1503 samples) ]
+sample_period=1250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.050 MB perf.data (1429 samples) ]
+sample_period=1300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.050 MB perf.data (1439 samples) ]
+sample_period=1350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.049 MB perf.data (1387 samples) ]
+sample_period=1400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.047 MB perf.data (1335 samples) ]
+sample_period=1450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.045 MB perf.data (1269 samples) ]
+sample_period=1500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.044 MB perf.data (1238 samples) ]
+sample_period=1550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.042 MB perf.data (1147 samples) ]
+sample_period=1600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.042 MB perf.data (1149 samples) ]
+sample_period=1650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.039 MB perf.data (1077 samples) ]
+sample_period=1700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.040 MB perf.data (1093 samples) ]
+sample_period=1750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.039 MB perf.data (1062 samples) ]
+sample_period=1800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.038 MB perf.data (1022 samples) ]
+sample_period=1850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.037 MB perf.data (1003 samples) ]
+sample_period=1900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.037 MB perf.data (982 samples) ]
+sample_period=1950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.036 MB perf.data (949 samples) ]
+sample_period=2000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.035 MB perf.data (921 samples) ]
+sample_period=2050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (872 samples) ]
+sample_period=2100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (882 samples) ]
+sample_period=2150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (857 samples) ]
+sample_period=2200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.032 MB perf.data (845 samples) ]
+sample_period=2250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.032 MB perf.data (824 samples) ]
+sample_period=2300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.031 MB perf.data (806 samples) ]
+sample_period=2350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.030 MB perf.data (781 samples) ]
+sample_period=2400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.030 MB perf.data (774 samples) ]
+sample_period=2450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.029 MB perf.data (749 samples) ]
+sample_period=2500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.029 MB perf.data (738 samples) ]
+sample_period=2550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.028 MB perf.data (690 samples) ]
+sample_period=2600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.028 MB perf.data (705 samples) ]
+sample_period=2650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.028 MB perf.data (690 samples) ]
+sample_period=2700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.027 MB perf.data (679 samples) ]
+sample_period=2750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.027 MB perf.data (670 samples) ]
+sample_period=2800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.027 MB perf.data (657 samples) ]
+sample_period=2850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.026 MB perf.data (649 samples) ]
+sample_period=2900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.026 MB perf.data (628 samples) ]
+sample_period=2950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.025 MB perf.data (605 samples) ]
+sample_period=3000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.025 MB perf.data (610 samples) ]
+sample_period=3050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.025 MB perf.data (601 samples) ]
+sample_period=3100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.025 MB perf.data (589 samples) ]
+sample_period=3150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.024 MB perf.data (568 samples) ]
+sample_period=3200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.024 MB perf.data (572 samples) ]
+sample_period=3250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.024 MB perf.data (566 samples) ]
+sample_period=3300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.024 MB perf.data (562 samples) ]
+sample_period=3350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.023 MB perf.data (529 samples) ]
+sample_period=3400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.023 MB perf.data (540 samples) ]
+sample_period=3450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.023 MB perf.data (528 samples) ]
+sample_period=3500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.023 MB perf.data (524 samples) ]
+sample_period=3550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.022 MB perf.data (500 samples) ]
+sample_period=3600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.022 MB perf.data (503 samples) ]
+sample_period=3650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.022 MB perf.data (503 samples) ]
+sample_period=3700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.022 MB perf.data (492 samples) ]
+sample_period=3750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.022 MB perf.data (492 samples) ]
+sample_period=3800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.021 MB perf.data (482 samples) ]
+sample_period=3850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.021 MB perf.data (476 samples) ]
+sample_period=3900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.021 MB perf.data (463 samples) ]
+sample_period=3950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.021 MB perf.data (461 samples) ]
+sample_period=4000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (455 samples) ]
+sample_period=4050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (448 samples) ]
+sample_period=4100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (448 samples) ]
+sample_period=4150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (435 samples) ]
+sample_period=4200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (436 samples) ]
+sample_period=4250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (435 samples) ]
+sample_period=4300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (424 samples) ]
+sample_period=4350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (420 samples) ]
+sample_period=4400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (415 samples) ]
+sample_period=4450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (395 samples) ]
+sample_period=4500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (399 samples) ]
+sample_period=4550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (398 samples) ]
+sample_period=4600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (394 samples) ]
+sample_period=4650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (378 samples) ]
+sample_period=4700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (386 samples) ]
+sample_period=4750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (386 samples) ]
+sample_period=4800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (379 samples) ]
+sample_period=4850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (377 samples) ]
+sample_period=4900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (373 samples) ]
+sample_period=4950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (368 samples) ]
+sample_period=5000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (362 samples) ]
+sample_period=200000
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.281 MB perf.data (8977 samples) ]
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.297 MB perf.data (9526 samples) ]
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.296 MB perf.data (9489 samples) ]
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.293 MB perf.data (9400 samples) ]
+[ perf record: Woken up 2 times to write data ]
+[ perf record: Captured and wrote 0.298 MB perf.data (9540 samples) ]
+sample_period=250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.238 MB perf.data (7599 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.239 MB perf.data (7604 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.144 MB perf.data (4316 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (511 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (504 samples) ]
+sample_period=300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (500 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (504 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (508 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.035 MB perf.data (528 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (517 samples) ]
+sample_period=350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (496 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (520 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (520 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (500 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (511 samples) ]
+sample_period=400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (508 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (505 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (514 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (517 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (516 samples) ]
+sample_period=450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (504 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (510 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (512 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (502 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (520 samples) ]
+sample_period=500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (522 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (512 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (508 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (504 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (515 samples) ]
+sample_period=550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (512 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (511 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (515 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (516 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (505 samples) ]
+sample_period=600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (500 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (508 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (499 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (519 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (520 samples) ]
+sample_period=650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (504 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (508 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (509 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (506 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (504 samples) ]
+sample_period=700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (510 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (508 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (519 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (510 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (508 samples) ]
+sample_period=750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (510 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (516 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (508 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (515 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (504 samples) ]
+sample_period=800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (500 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (505 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (512 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (508 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.029 MB perf.data (419 samples) ]
+sample_period=200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (504 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (508 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (504 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (504 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (500 samples) ]
+sample_period=250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (505 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (500 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (496 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (500 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (500 samples) ]
+sample_period=300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (500 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (514 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (519 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (520 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (524 samples) ]
+sample_period=350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (500 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.035 MB perf.data (532 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (520 samples) ]
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.010 MB perf.data (60 samples) ]
+sample_period=5000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (367 samples) ]
+sample_period=4950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (361 samples) ]
+sample_period=4900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (370 samples) ]
+sample_period=4850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (372 samples) ]
+sample_period=4800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (378 samples) ]
+sample_period=4750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (371 samples) ]
+sample_period=4700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (388 samples) ]
+sample_period=4650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (395 samples) ]
+sample_period=4600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (391 samples) ]
+sample_period=4550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (393 samples) ]
+sample_period=4500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (397 samples) ]
+sample_period=4450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (402 samples) ]
+sample_period=4400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (415 samples) ]
+sample_period=4350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (411 samples) ]
+sample_period=4300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (417 samples) ]
+sample_period=4250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (427 samples) ]
+sample_period=4200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (421 samples) ]
+sample_period=4150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (436 samples) ]
+sample_period=4100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (441 samples) ]
+sample_period=4050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (450 samples) ]
+sample_period=4000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (455 samples) ]
+sample_period=3950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.021 MB perf.data (463 samples) ]
+sample_period=3900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.021 MB perf.data (468 samples) ]
+sample_period=3850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.021 MB perf.data (474 samples) ]
+sample_period=3800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.021 MB perf.data (479 samples) ]
+sample_period=3750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.021 MB perf.data (487 samples) ]
+sample_period=3700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.022 MB perf.data (492 samples) ]
+sample_period=3650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.022 MB perf.data (500 samples) ]
+sample_period=3600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.022 MB perf.data (492 samples) ]
+sample_period=3550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.022 MB perf.data (515 samples) ]
+sample_period=3500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.023 MB perf.data (526 samples) ]
+sample_period=3450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.023 MB perf.data (528 samples) ]
+sample_period=3400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.023 MB perf.data (544 samples) ]
+sample_period=3350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.023 MB perf.data (550 samples) ]
+sample_period=3300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.024 MB perf.data (558 samples) ]
+sample_period=3250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.024 MB perf.data (564 samples) ]
+sample_period=3200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.024 MB perf.data (563 samples) ]
+sample_period=3150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.024 MB perf.data (584 samples) ]
+sample_period=3100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.024 MB perf.data (588 samples) ]
+sample_period=3050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.024 MB perf.data (585 samples) ]
+sample_period=3000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.025 MB perf.data (609 samples) ]
+sample_period=2950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.026 MB perf.data (627 samples) ]
+sample_period=2900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.028 MB perf.data (600 samples) ]
+sample_period=2850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (507 samples) ]
+sample_period=2800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (514 samples) ]
+sample_period=2750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (517 samples) ]
+sample_period=2700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (513 samples) ]
+sample_period=2650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (503 samples) ]
+sample_period=2600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (514 samples) ]
+sample_period=2550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (512 samples) ]
+sample_period=2500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (518 samples) ]
+sample_period=2450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (516 samples) ]
+sample_period=2400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (513 samples) ]
+sample_period=2350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (509 samples) ]
+sample_period=2300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (504 samples) ]
+sample_period=2250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (515 samples) ]
+sample_period=2200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (510 samples) ]
+sample_period=2150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (516 samples) ]
+sample_period=2100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (510 samples) ]
+sample_period=2050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (513 samples) ]
+sample_period=2000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (506 samples) ]
+sample_period=1950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (515 samples) ]
+sample_period=1900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (519 samples) ]
+sample_period=1850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (514 samples) ]
+sample_period=1800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (516 samples) ]
+sample_period=1750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (514 samples) ]
+sample_period=1700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (504 samples) ]
+sample_period=1650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (495 samples) ]
+sample_period=1600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (514 samples) ]
+sample_period=1550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (520 samples) ]
+sample_period=1500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (514 samples) ]
+sample_period=1450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (512 samples) ]
+sample_period=1400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (520 samples) ]
+sample_period=1350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (508 samples) ]
+sample_period=1300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (510 samples) ]
+sample_period=1250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (522 samples) ]
+sample_period=1200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (521 samples) ]
+sample_period=1150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (516 samples) ]
+sample_period=1100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (517 samples) ]
+sample_period=1050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (505 samples) ]
+sample_period=1000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (513 samples) ]
+sample_period=950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (496 samples) ]
+sample_period=900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (517 samples) ]
+sample_period=850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (504 samples) ]
+sample_period=800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (516 samples) ]
+sample_period=750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (508 samples) ]
+sample_period=700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (513 samples) ]
+sample_period=650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (504 samples) ]
+sample_period=600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (504 samples) ]
+sample_period=550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (504 samples) ]
+sample_period=500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (504 samples) ]
+sample_period=450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (506 samples) ]
+sample_period=400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (500 samples) ]
+sample_period=350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.033 MB perf.data (505 samples) ]
+sample_period=300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (507 samples) ]
+sample_period=250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (512 samples) ]
+sample_period=200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.034 MB perf.data (524 samples) ]
+sample_period=10000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (180 samples) ]
+sample_period=9950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (181 samples) ]
+sample_period=9900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (180 samples) ]
+sample_period=9850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (180 samples) ]
+sample_period=9800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (185 samples) ]
+sample_period=9750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (183 samples) ]
+sample_period=9700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (185 samples) ]
+sample_period=9650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (185 samples) ]
+sample_period=9600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (186 samples) ]
+sample_period=9550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (186 samples) ]
+sample_period=9500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (186 samples) ]
+sample_period=9450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (189 samples) ]
+sample_period=9400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (187 samples) ]
+sample_period=9350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (195 samples) ]
+sample_period=9300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (193 samples) ]
+sample_period=9250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (192 samples) ]
+sample_period=9200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (195 samples) ]
+sample_period=9150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (195 samples) ]
+sample_period=9100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (198 samples) ]
+sample_period=9050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (198 samples) ]
+sample_period=9000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (199 samples) ]
+sample_period=8950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (201 samples) ]
+sample_period=8900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (201 samples) ]
+sample_period=8850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (204 samples) ]
+sample_period=8800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (202 samples) ]
+sample_period=8750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (205 samples) ]
+sample_period=8700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (206 samples) ]
+sample_period=8650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (208 samples) ]
+sample_period=8600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (209 samples) ]
+sample_period=8550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (208 samples) ]
+sample_period=8500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (211 samples) ]
+sample_period=8450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (213 samples) ]
+sample_period=8400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (214 samples) ]
+sample_period=8350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (213 samples) ]
+sample_period=8300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (216 samples) ]
+sample_period=8250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (216 samples) ]
+sample_period=8200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (219 samples) ]
+sample_period=8150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (220 samples) ]
+sample_period=8100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (221 samples) ]
+sample_period=8050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (224 samples) ]
+sample_period=8000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (222 samples) ]
+sample_period=7950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (227 samples) ]
+sample_period=7900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (223 samples) ]
+sample_period=7850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (228 samples) ]
+sample_period=7800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (230 samples) ]
+sample_period=7750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (231 samples) ]
+sample_period=7700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (237 samples) ]
+sample_period=7650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (237 samples) ]
+sample_period=7600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (231 samples) ]
+sample_period=7550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (240 samples) ]
+sample_period=7500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (234 samples) ]
+sample_period=7450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (239 samples) ]
+sample_period=7400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (242 samples) ]
+sample_period=7350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (242 samples) ]
+sample_period=7300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (247 samples) ]
+sample_period=7250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (245 samples) ]
+sample_period=7200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (243 samples) ]
+sample_period=7150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (253 samples) ]
+sample_period=7100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (257 samples) ]
+sample_period=7050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (256 samples) ]
+sample_period=7000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (255 samples) ]
+sample_period=6950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (257 samples) ]
+sample_period=6900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (263 samples) ]
+sample_period=6850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (264 samples) ]
+sample_period=6800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (268 samples) ]
+sample_period=6750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (269 samples) ]
+sample_period=6700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (271 samples) ]
+sample_period=6650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (275 samples) ]
+sample_period=6600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (273 samples) ]
+sample_period=6550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (274 samples) ]
+sample_period=6500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (282 samples) ]
+sample_period=6450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (274 samples) ]
+sample_period=6400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (275 samples) ]
+sample_period=6350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (290 samples) ]
+sample_period=6300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (289 samples) ]
+sample_period=6250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (288 samples) ]
+sample_period=6200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (292 samples) ]
+sample_period=6150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (296 samples) ]
+sample_period=6100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (293 samples) ]
+sample_period=6050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (305 samples) ]
+sample_period=6000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (307 samples) ]
+sample_period=5950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (303 samples) ]
+sample_period=5900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (307 samples) ]
+sample_period=5850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (312 samples) ]
+sample_period=5800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (313 samples) ]
+sample_period=5750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (314 samples) ]
+sample_period=5700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (318 samples) ]
+sample_period=5650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (311 samples) ]
+sample_period=5600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (313 samples) ]
+sample_period=5550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (329 samples) ]
+sample_period=5500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (330 samples) ]
+sample_period=5450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (330 samples) ]
+sample_period=5400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (326 samples) ]
+sample_period=5350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (333 samples) ]
+sample_period=5300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (344 samples) ]
+sample_period=5250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (345 samples) ]
+sample_period=5200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (342 samples) ]
+sample_period=5150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (355 samples) ]
+sample_period=5100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (344 samples) ]
+sample_period=5050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (356 samples) ]
+sample_period=5000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (359 samples) ]
+sample_period=10000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (177 samples) ]
+sample_period=9950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (179 samples) ]
+sample_period=9900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (181 samples) ]
+sample_period=9850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (185 samples) ]
+sample_period=9800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (182 samples) ]
+sample_period=9750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (183 samples) ]
+sample_period=9700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (184 samples) ]
+sample_period=9650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (184 samples) ]
+sample_period=9600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (184 samples) ]
+sample_period=9550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (184 samples) ]
+sample_period=9500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (188 samples) ]
+sample_period=9450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (189 samples) ]
+sample_period=9400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (193 samples) ]
+sample_period=9350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (191 samples) ]
+sample_period=9300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (192 samples) ]
+sample_period=9250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (192 samples) ]
+sample_period=9200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (194 samples) ]
+sample_period=9150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (195 samples) ]
+sample_period=9100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (196 samples) ]
+sample_period=9050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (195 samples) ]
+sample_period=9000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (202 samples) ]
+sample_period=8950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (201 samples) ]
+sample_period=8900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (201 samples) ]
+sample_period=8850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (203 samples) ]
+sample_period=8800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (203 samples) ]
+sample_period=8750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (201 samples) ]
+sample_period=8700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (205 samples) ]
+sample_period=8650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (207 samples) ]
+sample_period=8600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (204 samples) ]
+sample_period=8550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (209 samples) ]
+sample_period=8500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (210 samples) ]
+sample_period=8450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (208 samples) ]
+sample_period=8400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (213 samples) ]
+sample_period=8350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (216 samples) ]
+sample_period=8300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (213 samples) ]
+sample_period=8250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (214 samples) ]
+sample_period=8200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (218 samples) ]
+sample_period=8150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (215 samples) ]
+sample_period=8100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (221 samples) ]
+sample_period=8050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (222 samples) ]
+sample_period=8000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (224 samples) ]
+sample_period=7950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (226 samples) ]
+sample_period=7900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (226 samples) ]
+sample_period=7850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (227 samples) ]
+sample_period=7800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (233 samples) ]
+sample_period=7750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (237 samples) ]
+sample_period=7700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (234 samples) ]
+sample_period=7650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (235 samples) ]
+sample_period=7600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (235 samples) ]
+sample_period=7550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (237 samples) ]
+sample_period=7500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (239 samples) ]
+sample_period=7450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (238 samples) ]
+sample_period=7400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (243 samples) ]
+sample_period=7350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (246 samples) ]
+sample_period=7300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (248 samples) ]
+sample_period=7250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (248 samples) ]
+sample_period=7200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (249 samples) ]
+sample_period=7150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (253 samples) ]
+sample_period=7100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (253 samples) ]
+sample_period=7050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (255 samples) ]
+sample_period=7000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (256 samples) ]
+sample_period=6950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (253 samples) ]
+sample_period=6900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (263 samples) ]
+sample_period=6850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (268 samples) ]
+sample_period=6800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (266 samples) ]
+sample_period=6750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (266 samples) ]
+sample_period=6700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (274 samples) ]
+sample_period=6650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (272 samples) ]
+sample_period=6600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (273 samples) ]
+sample_period=6550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (274 samples) ]
+sample_period=6500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (277 samples) ]
+sample_period=6450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (277 samples) ]
+sample_period=6400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (280 samples) ]
+sample_period=6350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (287 samples) ]
+sample_period=6300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (286 samples) ]
+sample_period=6250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (286 samples) ]
+sample_period=6200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (292 samples) ]
+sample_period=6150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (294 samples) ]
+sample_period=6100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (291 samples) ]
+sample_period=6050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (300 samples) ]
+sample_period=6000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (302 samples) ]
+sample_period=5950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (303 samples) ]
+sample_period=5900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (303 samples) ]
+sample_period=5850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (310 samples) ]
+sample_period=5800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (310 samples) ]
+sample_period=5750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (316 samples) ]
+sample_period=5700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (320 samples) ]
+sample_period=5650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (321 samples) ]
+sample_period=5600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (326 samples) ]
+sample_period=5550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (323 samples) ]
+sample_period=5500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (329 samples) ]
+sample_period=5450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (331 samples) ]
+sample_period=5400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (338 samples) ]
+sample_period=5350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (340 samples) ]
+sample_period=5300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (340 samples) ]
+sample_period=5250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (340 samples) ]
+sample_period=5200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (345 samples) ]
+sample_period=5150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (353 samples) ]
+sample_period=5100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (356 samples) ]
+sample_period=5050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (359 samples) ]
+sample_period=5000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (364 samples) ]
+sample_period=10000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (176 samples) ]
+sample_period=9950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (176 samples) ]
+sample_period=9900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (182 samples) ]
+sample_period=9850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (178 samples) ]
+sample_period=9800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (187 samples) ]
+sample_period=9750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (185 samples) ]
+sample_period=9700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (183 samples) ]
+sample_period=9650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (187 samples) ]
+sample_period=9600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (186 samples) ]
+sample_period=9550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (189 samples) ]
+sample_period=9500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (186 samples) ]
+sample_period=9450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (192 samples) ]
+sample_period=9400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (192 samples) ]
+sample_period=9350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (192 samples) ]
+sample_period=9300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (193 samples) ]
+sample_period=9250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (196 samples) ]
+sample_period=9200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (197 samples) ]
+sample_period=9150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (196 samples) ]
+sample_period=9100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (197 samples) ]
+sample_period=9050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (199 samples) ]
+sample_period=9000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (202 samples) ]
+sample_period=8950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (203 samples) ]
+sample_period=8900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (201 samples) ]
+sample_period=8850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (206 samples) ]
+sample_period=8800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (205 samples) ]
+sample_period=8750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (205 samples) ]
+sample_period=8700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (207 samples) ]
+sample_period=8650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (207 samples) ]
+sample_period=8600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (209 samples) ]
+sample_period=8550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (207 samples) ]
+sample_period=8500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (212 samples) ]
+sample_period=8450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (214 samples) ]
+sample_period=8400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (214 samples) ]
+sample_period=8350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (218 samples) ]
+sample_period=8300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (212 samples) ]
+sample_period=8250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (219 samples) ]
+sample_period=8200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (223 samples) ]
+sample_period=8150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (221 samples) ]
+sample_period=8100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (223 samples) ]
+sample_period=8050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (224 samples) ]
+sample_period=8000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (221 samples) ]
+sample_period=7950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (225 samples) ]
+sample_period=7900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (229 samples) ]
+sample_period=7850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (226 samples) ]
+sample_period=7800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (231 samples) ]
+sample_period=7750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (230 samples) ]
+sample_period=7700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (235 samples) ]
+sample_period=7650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (237 samples) ]
+sample_period=7600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (237 samples) ]
+sample_period=7550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (239 samples) ]
+sample_period=7500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (241 samples) ]
+sample_period=7450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (238 samples) ]
+sample_period=7400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (244 samples) ]
+sample_period=7350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (246 samples) ]
+sample_period=7300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (246 samples) ]
+sample_period=7250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (250 samples) ]
+sample_period=7200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (252 samples) ]
+sample_period=7150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (255 samples) ]
+sample_period=7100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (255 samples) ]
+sample_period=7050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (250 samples) ]
+sample_period=7000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (258 samples) ]
+sample_period=6950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (261 samples) ]
+sample_period=6900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (262 samples) ]
+sample_period=6850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (257 samples) ]
+sample_period=6800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (266 samples) ]
+sample_period=6750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (268 samples) ]
+sample_period=6700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (273 samples) ]
+sample_period=6650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (267 samples) ]
+sample_period=6600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (275 samples) ]
+sample_period=6550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (277 samples) ]
+sample_period=6500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (270 samples) ]
+sample_period=6450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (281 samples) ]
+sample_period=6400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (282 samples) ]
+sample_period=6350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (281 samples) ]
+sample_period=6300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (283 samples) ]
+sample_period=6250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (290 samples) ]
+sample_period=6200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (292 samples) ]
+sample_period=6150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (295 samples) ]
+sample_period=6100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (296 samples) ]
+sample_period=6050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (300 samples) ]
+sample_period=6000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (301 samples) ]
+sample_period=5950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (304 samples) ]
+sample_period=5900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (305 samples) ]
+sample_period=5850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (305 samples) ]
+sample_period=5800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (312 samples) ]
+sample_period=5750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (316 samples) ]
+sample_period=5700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (317 samples) ]
+sample_period=5650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (321 samples) ]
+sample_period=5600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (323 samples) ]
+sample_period=5550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (316 samples) ]
+sample_period=5500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (333 samples) ]
+sample_period=5450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (331 samples) ]
+sample_period=5400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (329 samples) ]
+sample_period=5350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (337 samples) ]
+sample_period=5300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (346 samples) ]
+sample_period=5250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (340 samples) ]
+sample_period=5200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (348 samples) ]
+sample_period=5150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (349 samples) ]
+sample_period=5100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (355 samples) ]
+sample_period=5050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (359 samples) ]
+sample_period=5000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (362 samples) ]
+sample_period=4950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (368 samples) ]
+sample_period=4900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (371 samples) ]
+sample_period=4850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (374 samples) ]
+sample_period=4800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (376 samples) ]
+sample_period=4750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (381 samples) ]
+sample_period=4700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (392 samples) ]
+sample_period=4650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (388 samples) ]
+sample_period=4600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (395 samples) ]
+sample_period=4550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (399 samples) ]
+sample_period=4500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (405 samples) ]
+sample_period=4450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (412 samples) ]
+sample_period=4400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (413 samples) ]
+sample_period=4350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (413 samples) ]
+sample_period=4300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (425 samples) ]
+sample_period=4250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (415 samples) ]
+sample_period=4200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (419 samples) ]
+sample_period=4150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (427 samples) ]
+sample_period=4100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (441 samples) ]
+sample_period=4050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (451 samples) ]
+sample_period=4000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (448 samples) ]
+sample_period=10000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (178 samples) ]
+sample_period=9950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (180 samples) ]
+sample_period=9900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (180 samples) ]
+sample_period=9850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (181 samples) ]
+sample_period=9800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (182 samples) ]
+sample_period=9750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (183 samples) ]
+sample_period=9700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (183 samples) ]
+sample_period=9650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (183 samples) ]
+sample_period=9600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (185 samples) ]
+sample_period=9550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (187 samples) ]
+sample_period=9500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (188 samples) ]
+sample_period=9450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (189 samples) ]
+sample_period=9400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (190 samples) ]
+sample_period=9350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (190 samples) ]
+sample_period=9300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (189 samples) ]
+sample_period=9250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (191 samples) ]
+sample_period=9200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.012 MB perf.data (194 samples) ]
+sample_period=9150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (195 samples) ]
+sample_period=9100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (196 samples) ]
+sample_period=9050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (195 samples) ]
+sample_period=9000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (199 samples) ]
+sample_period=8950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (196 samples) ]
+sample_period=8900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (199 samples) ]
+sample_period=8850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (202 samples) ]
+sample_period=8800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (203 samples) ]
+sample_period=8750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (205 samples) ]
+sample_period=8700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (203 samples) ]
+sample_period=8650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (203 samples) ]
+sample_period=8600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (210 samples) ]
+sample_period=8550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (208 samples) ]
+sample_period=8500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (210 samples) ]
+sample_period=8450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (209 samples) ]
+sample_period=8400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (211 samples) ]
+sample_period=8350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (215 samples) ]
+sample_period=8300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (217 samples) ]
+sample_period=8250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (217 samples) ]
+sample_period=8200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (218 samples) ]
+sample_period=8150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (218 samples) ]
+sample_period=8100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (221 samples) ]
+sample_period=8050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (220 samples) ]
+sample_period=8000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (221 samples) ]
+sample_period=7950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (225 samples) ]
+sample_period=7900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (226 samples) ]
+sample_period=7850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.013 MB perf.data (227 samples) ]
+sample_period=7800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (229 samples) ]
+sample_period=7750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (233 samples) ]
+sample_period=7700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (233 samples) ]
+sample_period=7650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (235 samples) ]
+sample_period=7600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (233 samples) ]
+sample_period=7550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (240 samples) ]
+sample_period=7500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (238 samples) ]
+sample_period=7450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (240 samples) ]
+sample_period=7400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (245 samples) ]
+sample_period=7350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (243 samples) ]
+sample_period=7300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (246 samples) ]
+sample_period=7250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (248 samples) ]
+sample_period=7200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (251 samples) ]
+sample_period=7150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (249 samples) ]
+sample_period=7100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (250 samples) ]
+sample_period=7050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (255 samples) ]
+sample_period=7000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (251 samples) ]
+sample_period=6950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.014 MB perf.data (258 samples) ]
+sample_period=6900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (261 samples) ]
+sample_period=6850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (262 samples) ]
+sample_period=6800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (265 samples) ]
+sample_period=6750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (266 samples) ]
+sample_period=6700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (263 samples) ]
+sample_period=6650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (270 samples) ]
+sample_period=6600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (266 samples) ]
+sample_period=6550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (274 samples) ]
+sample_period=6500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (277 samples) ]
+sample_period=6450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (279 samples) ]
+sample_period=6400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (278 samples) ]
+sample_period=6350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (283 samples) ]
+sample_period=6300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (284 samples) ]
+sample_period=6250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (288 samples) ]
+sample_period=6200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (283 samples) ]
+sample_period=6150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (292 samples) ]
+sample_period=6100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (295 samples) ]
+sample_period=6050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB perf.data (291 samples) ]
+sample_period=6000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (300 samples) ]
+sample_period=5950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (304 samples) ]
+sample_period=5900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (306 samples) ]
+sample_period=5850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (304 samples) ]
+sample_period=5800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (310 samples) ]
+sample_period=5750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (316 samples) ]
+sample_period=5700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (316 samples) ]
+sample_period=5650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (320 samples) ]
+sample_period=5600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (316 samples) ]
+sample_period=5550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.016 MB perf.data (324 samples) ]
+sample_period=5500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (327 samples) ]
+sample_period=5450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (335 samples) ]
+sample_period=5400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (329 samples) ]
+sample_period=5350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (339 samples) ]
+sample_period=5300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (340 samples) ]
+sample_period=5250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (345 samples) ]
+sample_period=5200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (347 samples) ]
+sample_period=5150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (353 samples) ]
+sample_period=5100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (353 samples) ]
+sample_period=5050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.017 MB perf.data (352 samples) ]
+sample_period=5000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (360 samples) ]
+sample_period=4950000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (367 samples) ]
+sample_period=4900000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (368 samples) ]
+sample_period=4850000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (374 samples) ]
+sample_period=4800000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (380 samples) ]
+sample_period=4750000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (379 samples) ]
+sample_period=4700000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (384 samples) ]
+sample_period=4650000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.018 MB perf.data (383 samples) ]
+sample_period=4600000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (393 samples) ]
+sample_period=4550000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (394 samples) ]
+sample_period=4500000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (396 samples) ]
+sample_period=4450000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (404 samples) ]
+sample_period=4400000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (414 samples) ]
+sample_period=4350000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (414 samples) ]
+sample_period=4300000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.019 MB perf.data (420 samples) ]
+sample_period=4250000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (430 samples) ]
+sample_period=4200000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (433 samples) ]
+sample_period=4150000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (437 samples) ]
+sample_period=4100000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (442 samples) ]
+sample_period=4050000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (449 samples) ]
+sample_period=4000000
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.020 MB perf.data (451 samples) ]
