@@ -24,7 +24,7 @@ struct read_format {
 };
 
 #define MAX_MAX (1024 * 64)
-#define MAX (1024 * 8)
+#define MAX (1024 * 14)
 
 int count = 0;
 
@@ -41,9 +41,9 @@ struct item first;
 
 int run1(int loop) {
 	struct item *p1;
-	while(loop--) {
+	while(count < loop) {
 		p1 = first.next;
-		while(p1 != NULL) {
+		while(p1 != NULL && count < loop) {
 			p1 = p1->next;
 			count++;
 		}
@@ -109,12 +109,11 @@ int main(int argc, char* argv[]) {
 	init();
 	ioctl(fd1, PERF_EVENT_IOC_RESET, PERF_IOC_FLAG_GROUP);
 	ioctl(fd1, PERF_EVENT_IOC_ENABLE, PERF_IOC_FLAG_GROUP);
-	run1(MAX_MAX / MAX);
+	run1(65536);
 	ioctl(fd1, PERF_EVENT_IOC_DISABLE, PERF_IOC_FLAG_GROUP);
 
 
 	read(fd1, buf, sizeof(buf));
-	printf("loop = %d\n", MAX_MAX / MAX);
 	printf("count = %d\n", count);
 	//printf("%"PRIu64"\n", rf->nr);
 	//printf("%"PRIu64"\n", rf->time_enabled);
