@@ -24,7 +24,9 @@ struct read_format {
 };
 
 #define MAX_MAX (1024 * 64)
-#define MAX (1024 * 16)
+#define MAX (1024 * 8)
+
+int count = 0;
 
 int global[MAX];
 
@@ -35,13 +37,16 @@ struct item {
 
 struct item p[MAX];
 struct item *head = p;
+struct item first;
 
 int run1(int loop) {
 	struct item *p1;
 	while(loop--) {
-		p1 = head;
-		while(p1 != NULL)
+		p1 = first.next;
+		while(p1 != NULL) {
 			p1 = p1->next;
+			count++;
+		}
 	}
 	return 0;
 }
@@ -49,7 +54,7 @@ int run1(int loop) {
 void init() {
 	int ran[MAX];
 	int i, j, k;
-	struct item *p_init = p;
+	struct item *p_init = &first;
 	for(i = 0; i < MAX; i++) {
 		ran[i] = i;
 	}   
@@ -62,11 +67,9 @@ void init() {
 
 	for(i = MAX - 1; i >= 0; i--) {
 		p_init->next = head + global[i];
-		if(p_init == p_init->next)
-			p_init->next == NULL;
-		else
-			p_init = p_init->next;
+		p_init = p_init->next;
 	}
+	p_init->next = NULL;
 }
 
 
@@ -111,9 +114,11 @@ int main(int argc, char* argv[]) {
 
 
 	read(fd1, buf, sizeof(buf));
-	printf("%"PRIu64"\n", rf->nr);
-	printf("%"PRIu64"\n", rf->time_enabled);
-	printf("%"PRIu64"\n", rf->time_running);
+	printf("loop = %d\n", MAX_MAX / MAX);
+	printf("count = %d\n", count);
+	//printf("%"PRIu64"\n", rf->nr);
+	//printf("%"PRIu64"\n", rf->time_enabled);
+	//printf("%"PRIu64"\n", rf->time_running);
 	for (i = 0; i < rf->nr; i++) {
 		if (rf->values[i].id == id1) {
 			val1 = rf->values[i].value;
