@@ -24,7 +24,7 @@ struct read_format {
 };
 
 #define MAX_MAX (1024 * 64)
-#define MAX (1024 * 8)
+#define MAX (1024 * 16)
 
 int global[MAX];
 
@@ -33,29 +33,23 @@ struct item {
 	unsigned long long arr[63];
 };
 
+struct item p[MAX];
+struct item *head = p;
+
 int run1(int loop) {
-	struct item *p = (struct item *)malloc(sizeof(struct item) * MAX);
-	struct item *head = p;
-	int i, j, k;
-	for(i = MAX - 1; i >= 0; i--) {
-		p->next = head + global[i];
-		if(p == p->next)
-			p->next == NULL;
-		else
-			p = p->next;
-	}
+	struct item *p1;
 	while(loop--) {
-		p = head;
-		while(p != NULL)
-			p = p->next;
+		p1 = head;
+		while(p1 != NULL)
+			p1 = p1->next;
 	}
-	free(head);
 	return 0;
 }
 
 void init() {
 	int ran[MAX];
 	int i, j, k;
+	struct item *p_init = p;
 	for(i = 0; i < MAX; i++) {
 		ran[i] = i;
 	}   
@@ -65,6 +59,14 @@ void init() {
 		for(k = j; k < i; k++)
 			ran[k] = ran[k + 1]; 
 	}   
+
+	for(i = MAX - 1; i >= 0; i--) {
+		p_init->next = head + global[i];
+		if(p_init == p_init->next)
+			p_init->next == NULL;
+		else
+			p_init = p_init->next;
+	}
 }
 
 
