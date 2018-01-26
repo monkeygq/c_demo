@@ -1,6 +1,6 @@
 #!/bin/bash
 period=50000
-for((i=200;i>=80;i--)) 
+for((i=200;i>=60;i--)) 
 do
 sample_period=$[$i*$period]
 echo "sample_period=$sample_period" >> computation-intensive.data
