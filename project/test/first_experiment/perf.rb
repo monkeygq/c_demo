@@ -1,5 +1,5 @@
-output = File.new("computation-intensive.data.available", "w")
-File.open("computation-intensive.data", "r") do |file|
+output = File.new("#{ARGV.first}.available", "w")
+File.open(ARGV.first, "r") do |file|
 	while line = file.gets
 		sample_period = line.split("=").last.strip
 		line = file.gets
