@@ -1,0 +1,42 @@
+# To display the perf.data header info, please use --header/--header-only options.
+#
+#
+# Total Lost Samples: 0
+#
+# Samples: 846  of event 'instructions'
+# Event count (approx.): 1563796
+#
+# Overhead  Command       Shared Object      Symbol                     
+# ........  ............  .................  ...........................
+#
+    45.05%  stress-ng     ld-2.23.so         [.] do_lookup_x
+    17.45%  stress-ng     libc-2.23.so       [.] vfprintf
+    11.52%  stress-ng     libc-2.23.so       [.] __memset_sse2
+     9.24%  stress-ng     libc-2.23.so       [.] __GI___printf_fp_l
+     5.80%  stress-ng     ld-2.23.so         [.] _dl_relocate_object
+     2.95%  stress-ng     ld-2.23.so         [.] _dl_check_map_versions
+     1.96%  stress-ng     ld-2.23.so         [.] strcmp
+     1.73%  stress-ng     ld-2.23.so         [.] _dl_map_object_from_fd
+     0.74%  stress-ng     ld-2.23.so         [.] strchr
+     0.69%  stress-ng     ld-2.23.so         [.] _dl_map_object_deps
+     0.56%  stress-ng-io  stress-ng          [.] stress_io
+     0.43%  stress-ng     ld-2.23.so         [.] open_verify.constprop.7
+     0.39%  stress-ng-io  stress-ng          [.] sync@plt
+     0.33%  stress-ng     ld-2.23.so         [.] _dl_load_cache_lookup
+     0.21%  stress-ng     ld-2.23.so         [.] strdup
+     0.21%  stress-ng-io  stress-ng          [.] syncfs@plt
+     0.17%  stress-ng-io  [unknown]          [k] 0xfffffe0000006000
+     0.14%  stress-ng     ld-2.23.so         [.] dl_main
+     0.13%  stress-ng     ld-2.23.so         [.] __GI___sigsetjmp
+     0.11%  stress-ng-io  stress-ng          [.] __keep_stressing
+     0.07%  stress-ng     ld-2.23.so         [.] _dl_sysdep_start
+     0.06%  stress-ng     ld-2.23.so         [.] _dl_start
+     0.05%  stress-ng-io  libc-2.23.so       [.] sync
+     0.01%  stress-ng-io  libc-2.23.so       [.] syncfs
+     0.00%  stress-ng     [kernel.kallsyms]  [k] async_page_fault
+     0.00%  stress-ng     ld-2.23.so         [.] _start
+
+
+#
+# (Cannot load tips.txt file, please install perf!)
+#
