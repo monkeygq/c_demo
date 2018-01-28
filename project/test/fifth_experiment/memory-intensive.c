@@ -24,9 +24,7 @@ struct read_format {
 };
 
 #define MAX_MAX (1024 * 64)
-#define MAX (1024 * 20)
-
-int count = 0;
+#define MAX (1024 * 1)
 
 int global[MAX];
 
@@ -111,7 +109,6 @@ int main(int argc, char* argv[]) {
 
 
 	read(fd1, buf, sizeof(buf));
-	printf("count = %d\n", count);
 	//printf("%"PRIu64"\n", rf->nr);
 	//printf("%"PRIu64"\n", rf->time_enabled);
 	//printf("%"PRIu64"\n", rf->time_running);
@@ -123,9 +120,10 @@ int main(int argc, char* argv[]) {
 		}
 	}
 
-	printf("cache references: %"PRIu64"\n", val1);
-	printf("cache misses: %"PRIu64"\n", val2);
-	printf("cache misses rate: %f\n", val2 * 1.0 / val1);
+	//printf("cache references: %"PRIu64"\n", val1);
+	//printf("cache misses: %"PRIu64"\n", val2);
+	//printf("cache misses rate: %f\n", val2 * 1.0 / val1);
+	printf("%d %f\n", MAX / 1024 * 512, val2 * 1.0 / val1);
 
 	return 0;
 }
